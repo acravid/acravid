@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### My name is Alexandre Cravid (aka Alex) and I am a Cloud Engineer ☁️
+### Hi there 👋 I'm Alex
 
 - 🤩 Enthusiastic about Cloud and Open Source projects and technologies (CNCF) focused on Automation, Infrastructure as Code, Configuration as Code, Containers, GitOps and DevOps culture
 - 📚 Gaining a deeper understanding of Cloud Architectures
