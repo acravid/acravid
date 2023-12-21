@@ -5,6 +5,9 @@
 - ⚡ Love sports, specifically, football ⚽️ and Muay-Thai 🥊
 
 ### Current Badges 🎖️
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/alexandrecravid/4305435EDA2D0751?sharingId=CC422CD19B7C4944" target="_blank" rel="noreferrer"> 
+    <img src="https://learn.microsoft.com/en-gb/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft Certified: Azure Fundamentals" width="120" height="120"/> </a>
+    
 <a href="https://www.credly.com/badges/0d173e26-ebd1-4106-a63f-3d6323d46f4a" target="_blank" rel="noreferrer"> 
     <img src="https://images.credly.com/size/340x340/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="Kubernetes and Cloud Native Associate" width="120" height="120"/> </a>
 
