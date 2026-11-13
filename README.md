@@ -18,6 +18,14 @@ I'm a Senior Cloud & Platform Engineer at Bloq.it, in the Software Enablement do
 
 ## Latest articles
 
+### LinkedIn
+
+- [Beyond Feature Flags: The Evolution of Runtime Control](https://www.linkedin.com/pulse/beyond-feature-flags-evolution-runtime-control-alexandre-cravid-r9q7e/)
+- [From Charts to Chat: Adding an AI Assistant to My Home Energy Dashboard](https://www.linkedin.com/pulse/from-charts-chat-adding-ai-assistant-my-home-energy-alexandre-cravid-whmee/)
+- [The Importance of Observability, Even at Home](https://www.linkedin.com/pulse/importance-observability-even-home-alexandre-cravid-4oiqf/)
+
+### Medium
+
 <!-- BLOG-POST-LIST:START -->
 - [How I Implemented Observability at Home](https://medium.com/@alexandre.cravid/how-i-implemented-observability-at-home-2f064b58a76e?source=rss-c83eb119cf5e------2)
 - [How I Passed the Certified GitOps Associate &lpar;CGOA&rpar; Exam in Less Than a Week](https://medium.com/@alexandre.cravid/how-i-passed-the-certified-gitops-associate-cgoa-exam-in-less-than-a-week-99347629b5ed?source=rss-c83eb119cf5e------2)
