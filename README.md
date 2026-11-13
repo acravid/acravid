@@ -6,32 +6,14 @@ I'm a Senior Cloud & Platform Engineer at Bloq.it, in the Software Enablement do
 
 ## Tech stack
 
-[![Tech stack](https://skillicons.dev/icons?i=kubernetes,terraform,aws,azure,gcp,helm,argocd,ansible,gitlab,linux)](https://skillicons.dev)
+<p>
+<img src="https://skillicons.dev/icons?i=kubernetes,terraform,aws,azure,gcp,ansible,gitlab,linux" alt="Kubernetes, Terraform, AWS, Azure, GCP, Ansible, GitLab, Linux" height="48"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" title="Helm" height="48"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt="Argo CD" title="Argo CD" height="48"/>
+</p>
 
 ## Certifications
 
 <p>
-<a href="https://www.credly.com/badges/011f9a81-9128-4312-a673-8fe65b11a984" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/size/340x340/images/bf3fc97e-a12c-4567-86ea-01639b9b15fb/blob" alt="CNPA: Certified Cloud Native Platform Engineering Associate" width="85" height="85"/>
-</a>
-<a href="https://www.credly.com/badges/999272a0-ff34-4796-a240-b390e6768cba" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/size/340x340/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png" alt="CGOA: Certified GitOps Associate" width="85" height="85"/>
-</a>
-<a href="https://learn.microsoft.com/api/credentials/share/en-us/alexandrecravid/4305435EDA2D0751?sharingId=CC422CD19B7C4944" target="_blank" rel="noopener noreferrer">
-  <img src="https://learn.microsoft.com/en-gb/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft Certified: Azure Fundamentals" width="85" height="85"/>
-</a>
-<a href="https://www.credly.com/badges/0d173e26-ebd1-4106-a63f-3d6323d46f4a" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/size/340x340/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="Kubernetes and Cloud Native Associate" width="85" height="85"/>
-</a>
-<a href="https://www.credly.com/badges/b3b6eed1-ee13-4694-a4d9-6bfc2e14bc6b" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="HashiCorp Certified: Terraform Associate" width="85" height="85"/>
-</a>
-<a href="https://www.credly.com/badges/539e8fa4-222a-4193-a387-f5e1d1df3bc8" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="85" height="85"/>
-</a>
-<a href="https://www.credly.com/badges/316a315d-9659-4578-9661-ec972d5bea7b" target="_blank" rel="noopener noreferrer">
-  <img src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" width="85" height="85"/>
-</a>
+<a href="https://www.credly.com/badges/011f9a81-9128-4312-a673-8fe65b11a984" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/340x340/images/bf3fc97e-a12c-4567-86ea-01639b9b15fb/blob" alt="CNPA: Certified Cloud Native Platform Engineering Associate" width="85" height="85"/></a><a href="https://www.credly.com/badges/999272a0-ff34-4796-a240-b390e6768cba" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/340x340/images/7219d055-4e97-439c-b244-8fbe885fa06b/image.png" alt="CGOA: Certified GitOps Associate" width="85" height="85"/></a><a href="https://learn.microsoft.com/api/credentials/share/en-us/alexandrecravid/4305435EDA2D0751?sharingId=CC422CD19B7C4944" target="_blank" rel="noopener noreferrer"><img src="https://learn.microsoft.com/en-gb/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="Microsoft Certified: Azure Fundamentals" width="85" height="85"/></a><a href="https://www.credly.com/badges/0d173e26-ebd1-4106-a63f-3d6323d46f4a" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/340x340/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="Kubernetes and Cloud Native Associate" width="85" height="85"/></a><a href="https://www.credly.com/badges/b3b6eed1-ee13-4694-a4d9-6bfc2e14bc6b" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/340x340/images/cd038261-9d1c-4792-bc62-3a3b5bda175c/blob" alt="HashiCorp Certified: Terraform Associate" width="85" height="85"/></a><a href="https://www.credly.com/badges/539e8fa4-222a-4193-a387-f5e1d1df3bc8" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="85" height="85"/></a><a href="https://www.credly.com/badges/316a315d-9659-4578-9661-ec972d5bea7b" target="_blank" rel="noopener noreferrer"><img src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" width="85" height="85"/></a>
 </p>
 
 ## Latest articles
