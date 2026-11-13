@@ -7,7 +7,7 @@ I'm a Senior Cloud & Platform Engineer at Bloq.it, in the Software Enablement do
 ## Tech stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=kubernetes,terraform,aws,azure,gcp,ansible,gitlab,linux" alt="Kubernetes, Terraform, AWS, Azure, GCP, Ansible, GitLab, Linux" height="48"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" title="Helm" height="48"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt="Argo CD" title="Argo CD" height="48"/>
+<img src="https://skillicons.dev/icons?i=kubernetes,terraform,aws,azure,gcp,ansible,github,gitlab,linux" alt="Kubernetes, Terraform, AWS, Azure, GCP, Ansible, GitHub, GitLab, Linux" height="48"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" alt="Helm" title="Helm" height="48"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt="Argo CD" title="Argo CD" height="48"/>
 </p>
 
 ## Certifications
