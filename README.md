@@ -2,7 +2,7 @@
 
 **Senior Cloud & Platform Engineer | DevEx**
 
-I'm a Senior Cloud & Platform Engineer at Bloq.it, in the Software Enablement domain. I focus on platform engineering, cloud infrastructure, and DevOps practices to improve developer productivity and enable faster, more reliable software delivery. I plan, design, and build cloud-native platforms, and help teams adopt best practices while keeping technology aligned with the business.
+I'm a Senior Cloud & Platform Engineer. I focus on platform engineering, cloud infrastructure, and DevOps practices to improve developer productivity and enable faster, more reliable software delivery. I plan, design, and build cloud-native platforms, and help teams adopt best practices while keeping technology aligned with the business.
 
 ## Tech stack
 
